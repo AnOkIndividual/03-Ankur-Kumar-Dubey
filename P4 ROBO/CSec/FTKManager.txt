@@ -1,0 +1,15 @@
+Practical Eight
+
+AccessDataFTK
+
+
+
+1. Goto File. Create image.
+2. Choose Contents of a folder. Click next. Say yes.
+3. Select Image Source(Any Drive will do), Add Evidence Item info(Anything will work)
+4. Select Destination Folder, and Provide a name for the image file.
+5. Click on finish.
+6. At home, goto File and Add Evidence item.
+7. Choose image file, and then look for your image file at the Destination described in Step 4. Select.
+8. Done
+

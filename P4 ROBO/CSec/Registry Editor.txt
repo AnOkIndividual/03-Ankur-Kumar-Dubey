@@ -1,0 +1,49 @@
+
+
+Practical Nine
+
+Aim: Registry Editor
+
+1. For wireless evidence in the registry:
+
+hkey.localmachine.software.microsoft.windowsnt.currentversion.networklist.profiles
+
+2. For recentdocs
+
+hkey.currentuser.software.microsoft.windows.currentversion.explorer.recentdocs
+
+3. For typed URLs
+
+hkey.currentuser.software.microsoft.internetexplorer.typedurls
+
+4. For IP Addresses
+
+hkey.localmachine.system.services.currentcontrolset.services.tcpip.parameters.interface
+
+5. For start up locations in the registry
+
+hkey.localmachine.software.microsoft.windows.currentversion.run
+
+6. For RunOnce startup
+
+hkey.localmachine.software.microsoft.windows.currentversion.runonce
+
+7. For start up services
+
+hkey.localmachine.system.currentcontrolset.services
+
+8.For start legacy applications
+
+hkey.localmachine.system.currentcontrolset.control.wow
+
+9. To start when a particular user logs on
+
+hkey.currentusre.software.microsoft.windows.currentversion.run
+
+10. For USB storage devices
+
+hk.localmachine.system.controlsets00s.enum.usbstor
+
+11. For mounted devices
+
+hkey.localmachine.system.mounteddevices

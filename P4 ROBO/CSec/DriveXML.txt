@@ -1,0 +1,10 @@
+DriveXML
+
+1. Click on Backup
+2. Select a Drive to Backup
+3. Click on Next
+4. Provide SavedFile name and Location
+5. Click on Next
+6. Done
+
+
