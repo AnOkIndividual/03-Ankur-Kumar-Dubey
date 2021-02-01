@@ -1,3 +1,9 @@
+Social_Network_Ads	Salary_data	    50_Startups	    Mall_Customers	Churn_Modelling
+				
+KNN	                Linear Reg	    Multiple Reg	K-means	        ANN
+SVM			        Heirarchical	
+
+
 Knearest-neighbours
 
 import numpy as np
